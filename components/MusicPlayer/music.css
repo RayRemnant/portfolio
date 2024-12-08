@@ -1,0 +1,4 @@
+div[data-slot="track"] {
+	height: 0.33rem;
+	cursor: pointer;
+}
