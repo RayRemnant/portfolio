@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { Button } from "@nextui-org/button";
+import { Button } from "@heroui/button";
 import { motion, AnimatePresence } from "framer-motion";
 import "@/styles/gradient.css";
 
@@ -63,7 +63,7 @@ export default function CookieBanner() {
 								radius="lg"
 								style={{
 									border: "solid 2px transparent",
-									backgroundImage: `linear-gradient(hsl(var(--nextui-background)), hsl(var(--nextui-background))), linear-gradient(83.87deg, #F54180, #9353D3)`,
+									backgroundImage: `linear-gradient(hsl(var(--heroui-background)), hsl(var(--heroui-background))), linear-gradient(83.87deg, #F54180, #9353D3)`,
 									backgroundOrigin: "border-box",
 									backgroundClip: "padding-box, border-box",
 								}}

@@ -1,8 +1,8 @@
 import React from "react";
-import { Card, CardBody } from "@nextui-org/card";
-import { Image } from "@nextui-org/image";
-import { Button } from "@nextui-org/button";
-import { Slider } from "@nextui-org/slider";
+import { Card, CardBody } from "@heroui/card";
+import { Image } from "@heroui/image";
+import { Button } from "@heroui/button";
+import { Slider } from "@heroui/slider";
 import {
 	IconHeart,
 	IconPlayerPause,

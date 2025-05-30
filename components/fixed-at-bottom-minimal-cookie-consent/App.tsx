@@ -1,5 +1,5 @@
 import React from "react";
-import {Button, Link} from "@nextui-org/react";
+import {Button, Link} from "@heroui/react";
 
 export default function Component() {
   return (
@@ -18,7 +18,7 @@ export default function Component() {
             radius="lg"
             style={{
               border: "solid 2px transparent",
-              backgroundImage: `linear-gradient(hsl(var(--nextui-background)), hsl(var(--nextui-background))), linear-gradient(83.87deg, #F54180, #9353D3)`,
+              backgroundImage: `linear-gradient(hsl(var(--heroui-background)), hsl(var(--heroui-background))), linear-gradient(83.87deg, #F54180, #9353D3)`,
               backgroundOrigin: "border-box",
               backgroundClip: "padding-box, border-box",
             }}

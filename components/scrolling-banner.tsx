@@ -1,8 +1,8 @@
 "use client";
 
 import React from "react";
-import { ScrollShadow, ScrollShadowProps } from "@nextui-org/scroll-shadow";
-import { cn } from "@nextui-org/theme";
+import { ScrollShadow, ScrollShadowProps } from "@heroui/scroll-shadow";
+import { cn } from "@heroui/theme";
 
 interface ScrollingBannerProps extends ScrollShadowProps {
 	isReverse?: boolean;

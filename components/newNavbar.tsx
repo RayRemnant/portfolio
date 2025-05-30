@@ -9,9 +9,9 @@ import {
 	NavbarMenu,
 	NavbarMenuItem,
 	NavbarMenuToggle,
-} from "@nextui-org/navbar";
-import { Link } from "@nextui-org/link";
-import { Button } from "@nextui-org/button";
+} from "@heroui/navbar";
+import { Link } from "@heroui/link";
+import { Button } from "@heroui/button";
 
 const menuItems = [
 	"About",

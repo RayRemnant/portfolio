@@ -1,6 +1,6 @@
 "use client";
 
-import { Progress } from "@nextui-org/progress";
+import { Progress } from "@heroui/progress";
 import { useEffect, useState } from "react";
 
 export default function ProgressBar() {
